@@ -1,0 +1,7 @@
+{
+  "name": "Remix: VitalsSentry",
+  "description": "A real-time health variance inference engine that predicts physiological anomalies using statistical baselines and AI analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
